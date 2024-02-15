@@ -1,0 +1,35 @@
+.Footer-data {
+  display: flex;
+  justify-content: space-between;
+}
+
+.Footer-data ul li {
+  list-style: none;
+  margin-bottom: 10px;
+}
+
+.Footer-inner-container {
+  color: white;
+  margin-left: 15%;
+  margin-right: 15%;
+}
+
+.Footer-icons {
+  display: flex;
+  text-align: center;
+  list-style: none;
+  gap: 15px;
+  margin-bottom: 10px;
+}
+
+.Service-data {
+  border: white 1px solid;
+  width: 13%;
+  margin: 10px 0;
+  text-align: center;
+}
+
+.Copy-write {
+font-size: 12px;
+  margin-bottom: 10px;
+}
